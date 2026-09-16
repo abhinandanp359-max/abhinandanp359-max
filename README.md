@@ -184,3 +184,12 @@ A smart vehicle communication concept designed to allow people to contact vehicl
 🧠 Data Structures & Algorithms
         ↓
 🚀 Building Real-World Projects
+## 🐍 My Contribution Journey
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg">
+    <img alt="GitHub contribution snake" src="dist/github-snake.svg">
+  </picture>
+</p>
