@@ -184,6 +184,8 @@ A smart vehicle communication concept designed to allow people to contact vehicl
 🧠 Data Structures & Algorithms
         ↓
 🚀 Building Real-World Projects
+  ```
+ ## 🐍 My Contribution Journey
 ## 🐍 My Contribution Journey
 
 <p align="center">
